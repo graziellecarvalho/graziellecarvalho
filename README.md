@@ -1,8 +1,12 @@
 ## :book: Hi there <img src="https://github.com/graziellecarvalho/graziellecarvalho/assets/51386409/db70d0a6-4d9c-4222-8384-08c08e0e6c28" width="35" height="35">
-- My name is Grazielle, but you can call me Ellie
-- Front-end Developer and UX/UI designer
-- Switched to Front-end after being Quality Assurance for 3 years
-- Born in New Jersey, and lived in Brazil for 20 years. Now I'm back in Jersey, baby 😎
+
+<p align="center">
+  <samp>
+I'm Grazielle Carvalho. Frontend Architect, Web Developer, UX & UI designer and Quality Assurance
+  </samp>
+  <br/>
+  <br/>
+</p>
 
 ##  💻 Tech Stack
 
@@ -46,3 +50,6 @@
 [wordpress-url]: https://wordpress.com/
 [redux-icon]: https://img.shields.io/badge/redux-7348b7?style=for-the-badge&logo=redux&logoColor=white
 [redux-url]: https://redux.js.org/
+
+
+<a href="https://visitor-badge.laobi.icu/badge?page_id=graziellecarvalho.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=graziellecarvalho.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
