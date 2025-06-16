@@ -50,6 +50,3 @@ I'm Grazielle Carvalho. Frontend Architect, Web Developer, UX & UI designer and 
 [wordpress-url]: https://wordpress.com/
 [redux-icon]: https://img.shields.io/badge/redux-7348b7?style=for-the-badge&logo=redux&logoColor=white
 [redux-url]: https://redux.js.org/
-
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=graziellecarvalho.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=graziellecarvalho.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
